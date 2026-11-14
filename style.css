@@ -176,4 +176,5 @@ footer {
 .skills li {
   background: rgba(233, 30, 99, 0.15);
   border: 1px solid var(--primary);
-}
+}.skills li {
+  background: rgba(233, 30, 99, 0.15);
